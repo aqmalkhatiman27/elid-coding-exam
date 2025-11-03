@@ -14,9 +14,7 @@
    docker compose up -d api
    docker compose up -d web
    ```
-3) 
-API: http://localhost:8080/health
-Web: http://localhost:5173
+3) API: http://localhost:8080/health Web: http://localhost:5173
 
 ## .env
 POSTGRES_USER=elid
